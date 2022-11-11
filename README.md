@@ -14,7 +14,6 @@ The Charter schools do have a larget budget than the Public schools. While math 
 
 To try and justfiy any budget change requests as well as research into quatlity of education students receive at these schools the following analysis is suggested:
 1. Compare the average reading scores in both Charter and Public schools from 9th - 12th grade.
-See if these averages for both school types are similar to the averages for math scores. 
 
 2. Compare average Public School reading and math scores against one another to see if there are any outliers.
 

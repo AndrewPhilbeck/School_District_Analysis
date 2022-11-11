@@ -18,9 +18,9 @@ See if these averages for both school types are similar to the averages for math
 
 2. Compare average Public School reading and math scores against one another to see if there are any outliers.
 
-  a) Compare the size of the individual schools as well to see if larger student counts equal worse average scores.
+    a) Compare the size of the individual schools as well to see if larger student counts equal worse average scores.
   
 3. Compare average Charter School reading and math scores against one another to see if there are any outliers.
 
-  a) Compare the size of the schools as well to see if larger student counts equal worse average scores.
+    a) Compare the size of the schools as well to see if larger student counts equal worse average scores.
   
